@@ -1,7 +1,7 @@
 
 # Weather Application
 
-## Project Description
+# Project Description
 
 This project is a weather application where users can input the name of any city to obtain information about its weather, including temperature, humidity, and wind speed.
 
