@@ -1,0 +1,16 @@
+{
+  "name": "weather-project",
+  "version": "1.0.0",
+  "description": "This project is a weather application where users can input the name of any city to obtain information about its weather, including temperature, humidity, and wind speed.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  }
+}
