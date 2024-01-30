@@ -14,6 +14,9 @@ This project is a weather application where users can input the name of any city
 The application is built using the following technologies:
 
 - HTML
+- node.js
+- express.js
+- mongodb
 - JavaScript
 - CSS
 - Weather API
@@ -35,6 +38,26 @@ Include screenshots or GIFs of your application in action.
 1. Clone the repository: `git clone https://github.com/your-username/weather-application.git`
 2. Open `index.html` in your web browser.
 3. Enter the name of the city to check its weather.
+
+## Getting Started
+
+### Prerequisites
+- Node.js installed on your machine
+- Git installed on your machine
+
+### Clone the Repository
+```bash
+git clone https://github.com/example/weather-app.git
+```
+### Navigate to the Project Directory
+cd weather-app
+
+### Install Dependencies
+npm install
+
+### Run the Application
+npm start
+
 
 ## Credits
 
