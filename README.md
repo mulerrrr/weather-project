@@ -39,7 +39,7 @@ Include screenshots or GIFs of your application in action.
 2. Open `index.html` in your web browser.
 3. Enter the name of the city to check its weather.
 
-## Getting Started
+## Getting Started 1
 
 ### Prerequisites
 - Node.js installed on your machine
@@ -58,7 +58,6 @@ npm install
 ### Run the Application
 npm start
 
-
 ## Credits
 
 Give credit to any resources, tutorials, or APIs that you used in your project.
@@ -66,5 +65,4 @@ Give credit to any resources, tutorials, or APIs that you used in your project.
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
 
