@@ -35,7 +35,7 @@ Include screenshots or GIFs of your application in action.
 
 ## How to Use
 
-1. Clone the repository: `git clone https://github.com/your-username/weather-application.git`
+1. Clone the repository: `git clone https://github.com/mulerrrr/weather-project.git`
 2. Open `index.html` in your web browser.
 3. Enter the name of the city to check its weather.
 
