@@ -1,4 +1,3 @@
-
 # Weather Application
 
 # Project Description
@@ -36,8 +35,13 @@ Include screenshots or GIFs of your application in action.
 ## How to Use
 
 1. Clone the repository: `git clone https://github.com/mulerrrr/weather-project.git`
-2. Open `index.html` in your web browser.
-3. Enter the name of the city to check its weather.
+2. After cloning the repository and installing the dependencies, follow these steps to run the weather app:
+3. cd weather-app
+4. npm install
+5. npm start
+6. node app.js
+
+
 
 ## Getting Started 1
 
@@ -56,7 +60,8 @@ cd weather-app
 npm install
 
 ### Run the Application
-npm start
+node app.js
+
 
 ## Credits
 
